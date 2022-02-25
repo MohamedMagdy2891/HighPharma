@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Cairo';
+    src:url("./fonts/Cairo-Regular.ttf"),
+    url("./fonts/Cairo-Black.ttf"),
+    url('fonts/Cairo-Bold.ttf'),
+    url('fonts/Cairo-ExtraLight.ttf'),
+    url('fonts/Cairo-Light.ttf'),
+    url('fonts/Cairo-SemiBold.ttf'),
+    url('fonts/Cairo-VariableFont_wght.ttf') ;
+
+}
+
+* {
+    font-family: 'Cairo' ;
+}
