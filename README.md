@@ -1,2 +1,2 @@
 # HighPharma
- HighPharma is A Medical Store 
+ HighPharma is A Medical Store Dashboard
